@@ -1,0 +1,5 @@
+filterpy>=1.4.5          # No known issues with latest
+numpy>=1.26.4            # First version with wheels for Python 3.12
+onnx>=1.15.0             # Latest compatible with Python 3.12
+onnxruntime>=1.16.3      # Latest with Python 3.12 support
+opencv-contrib-python>=4.9.0.80  # 4.6.0.66 has no wheel for Python 3.12
